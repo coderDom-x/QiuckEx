@@ -11,7 +11,15 @@ We maintain two primary environments:
 Both environments use identical code and build processes, differing only in configuration.
 
 ## Environment Setup
+## Overview
 
+We maintain two primary environments:
+- **Staging**: For safe end-to-end testing using testnet/staging backend
+- **Production**: Live user-facing environment using mainnet
+
+Both environments use identical code and build processes, differing only in configuration.
+
+## Environment Setup
 ### Vercel Deployment
 
 - **Branch**: `staging` deploys to staging environment

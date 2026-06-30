@@ -6,6 +6,7 @@ Welcome to the Stella Wave project! This guide will help you set up your develop
 
 We use VS Code Dev Containers for a seamless onboarding experience. After cloning the repo, open it in VS Code and select "Reopen in Container" when prompted. The container will set up all dependencies for Soroban and Backend development.
 
+## Environment 
 ## Environment Setup
 
 1. **Clone the repository:**
